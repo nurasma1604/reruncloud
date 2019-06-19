@@ -23,7 +23,7 @@ $conn = mysqli_connect($host, $user, $password, $database);
 	
 	<div id="right">
 
-		<h1>List of User</h1>
+		<h1>List of User for runcloud</h1>
 
 		<table border="1">
 			<tr>
